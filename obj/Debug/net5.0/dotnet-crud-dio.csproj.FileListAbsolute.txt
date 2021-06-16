@@ -1,0 +1,16 @@
+C:\www\dotnet-crud-dio\bin\Debug\net5.0\dotnet-crud-dio.exe
+C:\www\dotnet-crud-dio\bin\Debug\net5.0\dotnet-crud-dio.deps.json
+C:\www\dotnet-crud-dio\bin\Debug\net5.0\dotnet-crud-dio.runtimeconfig.json
+C:\www\dotnet-crud-dio\bin\Debug\net5.0\dotnet-crud-dio.runtimeconfig.dev.json
+C:\www\dotnet-crud-dio\bin\Debug\net5.0\dotnet-crud-dio.dll
+C:\www\dotnet-crud-dio\bin\Debug\net5.0\ref\dotnet-crud-dio.dll
+C:\www\dotnet-crud-dio\bin\Debug\net5.0\dotnet-crud-dio.pdb
+C:\www\dotnet-crud-dio\obj\Debug\net5.0\dotnet-crud-dio.csproj.AssemblyReference.cache
+C:\www\dotnet-crud-dio\obj\Debug\net5.0\dotnet-crud-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\dotnet-crud-dio\obj\Debug\net5.0\dotnet-crud-dio.AssemblyInfoInputs.cache
+C:\www\dotnet-crud-dio\obj\Debug\net5.0\dotnet-crud-dio.AssemblyInfo.cs
+C:\www\dotnet-crud-dio\obj\Debug\net5.0\dotnet-crud-dio.csproj.CoreCompileInputs.cache
+C:\www\dotnet-crud-dio\obj\Debug\net5.0\dotnet-crud-dio.dll
+C:\www\dotnet-crud-dio\obj\Debug\net5.0\ref\dotnet-crud-dio.dll
+C:\www\dotnet-crud-dio\obj\Debug\net5.0\dotnet-crud-dio.pdb
+C:\www\dotnet-crud-dio\obj\Debug\net5.0\dotnet-crud-dio.genruntimeconfig.cache
